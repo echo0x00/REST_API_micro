@@ -1,0 +1,13 @@
+{
+    "name": "savproga/gtrf_job_test",
+    "description": "Job Test REST API",
+    "type": "project",
+    "license": "GPL GNU",
+    "authors": [
+        {
+            "name": "Alex Shakmaev",
+            "email": "savproga@mail.ru"
+        }
+    ],
+    "require": {}
+}
